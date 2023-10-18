@@ -1,7 +1,7 @@
 # DSA-Js & .py
 
 sum of Digits
-``
+```
 function generateSumofDigits(number_pased){
   
   let output =0;
@@ -18,4 +18,4 @@ let value =687
 
 console.log(generateSumofDigits(value))
 
-``
+```
